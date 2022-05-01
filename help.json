@@ -1,0 +1,10 @@
+{
+	"ck": {
+		"desc": "Charge 1$",
+		"main": "ck.js"
+	},
+	"cl": {
+		"desc": "Charge 0.1$",
+		"main": "cl.js"
+	}
+}
